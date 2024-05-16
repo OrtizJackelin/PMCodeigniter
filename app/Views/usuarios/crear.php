@@ -7,7 +7,7 @@
     ?>         
         <div class="alert alert-primary d-flex align-items-center alert-dismissible" role="alert" 
             style = "margin-top: 20px; margin-bottom: 5px;" type = "hidedeng">
-                <?php include "../public/imagenes/redes/exclamation-triangle.svg" ?>                
+                <?php base_url('/imagenes/redes/exclamation-triangle.svg') ?>                
                 <div>
                     <H6><b><?= validation_list_errors();  ?></H6></b>
                     <H6><b><?= $mensaje;  ?></H6></b>
@@ -86,6 +86,6 @@
             </div>
         </form><br>
 
-        <label><h20>Nota:(Todos los campos son obligatorios, en roles debe seleccionar al menos uno)</h20></label>
+        <label><h20>Nota:(Todos los campos son obligatorios, en rol debe seleccionar al menos uno)</h20></label>
     </div>
 </section> 

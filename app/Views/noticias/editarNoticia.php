@@ -8,7 +8,7 @@
 
         <div class="alert alert-primary d-flex align-items-center alert-dismissible" role="alert" 
             style = "margin-top: 20px; margin-bottom: 5px;" type = "hidedeng">
-                <?php include "../public/imagenes/redes/exclamation-triangle.svg" ?>                
+                <?php base_url('/imagenes/redes/exclamation-triangle.svg') ?>                
                 <div>
                     <H6><b><?= validation_list_errors();  ?></H6></b>
                     <H6><b><?= $mensaje;  ?></H6></b>
@@ -29,7 +29,7 @@
             <h2> <?php echo esc($tituloCuerpo)?></h2>
         </div><br><br>
 
-        <form class="row g-3 " name= "formulario" id="formulario" method="post" action="<?=base_url('noticia/post_editar')?>" 
+        <form class="row g-3 " name= "formularioEditar" id="formularioEditar" method="post" action="<?=base_url('noticia/post_editar')?>" 
             enctype="multipart/form-data" >
             <?= csrf_field() ?>
 
@@ -129,10 +129,10 @@
 
             <div class="row justify-content-center  text-center" style = "margin-top: 60px;">
                 <div class="col-6">
-                    <button type="submit" class="btn btn-secondary btn-block" id="guardar" name="guardar">GUARDAR</button>
+                    <button type="submit" class="btn btn-secondary btn-block" id="guardarEditar" name="guardarEditar">GUARDAR</button>
                 </div>
                 <div class="col-6">
-                    <button type="button" class="btn btn-secondary btn-block " id="cancelar" name="cancelar"
+                    <button type="button" class="btn btn-secondary btn-block " id="cancelarEditar" name="cancelarEditar"
                         onclick="window.location.href='<?php echo base_url('noticia/mis_noticias'); ?>'">
                             CANCELAR
                     </button>

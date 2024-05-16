@@ -6,8 +6,7 @@
     ?>           
         <div class="alert alert-primary d-flex align-items-center alert-dismissible" role="alert" 
             style = "margin-top: 20px; margin-bottom: 5px;" type = "hidedeng">
-                <?php //include "../public/imagenes/redes/exclamation-triangle.svg" 
-                 base_url('/imagenes/redes/exclamation-triangle.svg')?>                
+                <?php base_url('/imagenes/redes/exclamation-triangle.svg')?>                
                 <div>
                     <H6><b><?= validation_list_errors();  ?></H6></b>
                     <H6><b><?= $mensaje;  ?></H6></b>                    
@@ -17,7 +16,7 @@
     <?php
     }
 ?>
-<div id="liveAlertPlaceholder"></div>  
+<!--<div id="liveAlertPlaceholder"></div>  -->
 
 <section class = "sectionPrincipal">
     <div class=" col-md-12 text-center" style=" margin-top: 60px;">

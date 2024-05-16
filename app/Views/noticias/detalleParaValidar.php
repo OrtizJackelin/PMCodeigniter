@@ -9,8 +9,7 @@
 
         <div class="alert alert-primary d-flex align-items-center alert-dismissible" role="alert" 
             style = "margin-top: 20px; margin-bottom: 5px;" type = "hidedeng">
-                <?php //include "../public/imagenes/redes/exclamation-triangle.svg" 
-                 base_url('/imagenes/redes/exclamation-triangle.svg')?>                
+                <?php base_url('/imagenes/redes/exclamation-triangle.svg')?>                
                 <div>
                     <H6><b><?= validation_list_errors();  ?></H6></b>
                     <H6><b><?= $mensaje;  ?></H6></b>
@@ -30,7 +29,7 @@
             <h2> <?php echo esc($tituloCuerpo)?></h2>
         </div><br><br>
 
-        <form class="row g-3 " name= "formulario" id="formulario" method="post" action="<?= base_url('noticia/post_validar')?>" enctype="multipart/form-data" >
+        <form class="row g-3 " name= "formularioValidar" id="formularioValidar" method="post" action="<?= base_url('noticia/post_validar')?>" enctype="multipart/form-data" >
             <?= csrf_field() ?>
 
             <div class="col-md-12">
@@ -105,7 +104,7 @@
             
             <div class="row justify-content-center " style = "margin-top: 60px;">
                 <div class="col-3">
-                    <button type="submit" class="btn btn-secondary btn-block" id="guardar" name="guardar">GUARDAR</button>
+                    <button type="submit" class="btn btn-secondary btn-block" id="guardarValidar" name="guardarValidar">GUARDAR</button>
                 </div>
                 <div class="col-3">
                     <button type="button" class="btn btn-secondary btn-block mt-2" id="volver_listado_validar" name="volver_listado_validar"

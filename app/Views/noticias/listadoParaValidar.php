@@ -8,7 +8,7 @@
         <div id="liveAlertPlaceholder"></div>                 
         <div class="alert alert-primary d-flex align-items-center alert-dismissible" role="alert" 
             style = "margin-top: 20px; margin-bottom: 5px;" type = "hidedeng">
-            <?php include "../public/imagenes/redes/exclamation-triangle.svg" ?> 
+            <?php base_url('/imagenes/redes/exclamation-triangle.svg') ?> 
 
             <div>
                 <H6><b><?= esc( $mensaje); ?></H6></b>                
