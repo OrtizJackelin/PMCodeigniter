@@ -43,7 +43,7 @@
                 <div class="btn-group " >
                     <?php if ($session->has('id')) {  ?>
                         <a style="text-decoration:none; padding:0px; border-radius:0px; " class="dropdown-item"
-                            href="<?php base_url('/noticia') ?>">
+                            href="<?php echo base_url('/noticia') ?>">
                             <button type="button" class="btn btn-primary" style="height:100%;"> <img
                                     src="<?= base_url('imagenes/redes/person-circle.svg')?>" alt="person-circle">
                             </button>
@@ -51,7 +51,7 @@
                     
                     <?php } else { ?>
                         <a style="text-decoration:none; padding:0px; border-radius:0px; " class="dropdown-item"
-                        href="../usuario/iniciar_sesion">
+                         href="<?php echo base_url('usuario/iniciar_sesion') ?>">
                             <button type="button" class="btn btn-primary" style="height:100%;"> <img
                                     src="<?= base_url('imagenes/redes/person-circle.svg')?>" alt="person-circle">
                             </button>
