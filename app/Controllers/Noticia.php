@@ -26,7 +26,6 @@ class Noticia extends BaseController
         $this->session = session();
         $this->modeloNoticia = model(ModeloNoticia::class);
         $this->fechaHoraActual =Time::now();
-       
         $this->modeloBorrador = model(ModeloBorrador::class);
        
     }

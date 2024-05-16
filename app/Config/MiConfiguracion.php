@@ -6,5 +6,5 @@ use CodeIgniter\Config\BaseConfig;
 
 class MiConfiguracion extends BaseConfig
 {
-    public $dias= 6;
+    public $dias= 20;
 }
