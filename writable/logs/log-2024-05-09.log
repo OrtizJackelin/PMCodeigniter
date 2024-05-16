@@ -1,0 +1,1721 @@
+INFO - 2024-05-09 14:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:40:40 --> CSRF token verified.
+INFO - 2024-05-09 14:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 14:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:28 --> CSRF token verified.
+INFO - 2024-05-09 15:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:37 --> CSRF token verified.
+INFO - 2024-05-09 15:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 15:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:17:14 --> CSRF token verified.
+INFO - 2024-05-09 17:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:45:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:45:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:46:08 --> CSRF token verified.
+INFO - 2024-05-09 17:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 17:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 19:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 19:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 19:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 19:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 19:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-09 19:44:29 --> ParseError: Unclosed '{' on line 15
+in APPPATH\Controllers\Noticia.php on line 791.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 19:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 19:45:24 --> mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 19:45:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:45:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:45:24 --> [Caused by] mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 19:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 19:49:31 --> mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 19:49:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND `estado_noticia` = :estado_noticia.2:
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:49:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND `estado_noticia` = :estado_noticia.2:
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:49:31 --> [Caused by] mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND `estado_noticia` = :estado_noticia.2:
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(212): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 19:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 19:54:38 --> mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 19:54:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND `estado_noticia` = :estado_noticia.2:
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:54:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND `estado_noticia` = :estado_noticia.2:
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:54:38 --> [Caused by] mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+AND `estado_noticia` = \'estado_noticia.fecha <= DATE_SUB(CURRENT_TIMESTAMP(), INTERVAL 5 DAY)\'
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+AND `estado_noticia` = :estado_noticia.2:
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 19:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 19:57:18 --> mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 19:57:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:57:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:57:18 --> [Caused by] mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 19:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 19:57:19 --> mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 19:57:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:57:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 19:57:19 --> [Caused by] mysqli_sql_exception: Unknown column 'estado_noticia' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `estado_noticia`.`fecha`
+FROM `estado_noticia`
+JOIN `noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(211): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(751): App\Models\ModeloNoticia->obtenerUltimaFechaDeNoticiasEnEstadoValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->noticias()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 20:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:18:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-09 20:33:18 --> CodeIgniter\Database\Exceptions\DatabaseException: You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 884.
+ 1 APPPATH\Models\ModeloEstadoNoticia.php(20): CodeIgniter\Database\BaseConnection->table(null)
+ 2 APPPATH\Controllers\Noticia.php(28): App\Models\ModeloEstadoNoticia->publicarAutomticamente()
+ 3 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 20:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 20:48:12 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1 in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->index()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 20:48:12 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:48:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:48:12 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = \'estado_noticia.fecha = (SELECT MAX(fecha) \\r\\n                            FROM estado_noticia \\r\\n                            WHERE estado_noticia.id_noticia = noticia.id)\\r\\n                            \'
+AND `estado_noticia` = \'estado_noticia.id_estado = 5\'
+AND `noticia` = \'noticia.es_activo = 1\'
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `estado_noticia` = :estado_noticia:
+AND `estado_noticia` = :estado_noticia.1:
+AND `noticia` = :noticia:
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 20:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 20:53:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1 in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->index()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 20:53:32 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:53:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:53:32 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+AND `es_activo` = 1
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 20:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 20:55:24 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1 in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->index()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 20:55:24 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:55:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:55:24 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 20:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 20:55:26 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1 in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->index()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 20:55:26 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+GROUP BY `noticia`.`id`', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:55:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+GROUP BY `noticia`.`id`', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 20:55:26 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = 5
+GROUP BY `noticia`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`fecha` `usuario`.`correo`
+FROM `noticia`
+JOIN `usuario` ON `noticia`.`id_usuario` = `usuario`.`id`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `borrador`.`id_categoria` = `categoria`.`id`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+WHERE `es_activo` = 1
+AND fecha = (SELECT MAX(fecha) 
+                            FROM estado_noticia 
+                            WHERE estado_noticia.id_noticia = noticia.id)
+                            
+AND `id_estado` = :id_estado:
+GROUP BY `noticia`.`id`', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(191): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(62): App\Models\ModeloNoticia->obtenerNoticiasEstadoPublicada()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 20:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 20:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:39:04 --> CSRF token verified.
+INFO - 2024-05-09 21:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:39:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:25 --> CSRF token verified.
+INFO - 2024-05-09 21:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:48 --> CSRF token verified.
+INFO - 2024-05-09 21:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:41:02 --> CSRF token verified.
+INFO - 2024-05-09 21:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:51:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 21:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:18:03 --> CSRF token verified.
+INFO - 2024-05-09 22:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 22:32:04 --> mysqli_sql_exception: Unknown column 'estao_noticia.fecha' in 'where clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 22:32:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estao_noticia.fecha' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = :noticia.id:
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 22:32:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'estao_noticia.fecha' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = :noticia.id:
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 22:32:04 --> [Caused by] mysqli_sql_exception: Unknown column 'estao_noticia.fecha' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = :noticia.id:
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estao_noticia`.`fecha` = $subconsultaEstados', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 22:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-09 22:33:19 --> mysqli_sql_exception: Unknown column '$subconsultaEstados' in 'where clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-09 22:33:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column '$subconsultaEstados' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = :noticia.id:
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 22:33:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column '$subconsultaEstados' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = :noticia.id:
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-09 22:33:19 --> [Caused by] mysqli_sql_exception: Unknown column '$subconsultaEstados' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = \'32\'
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id` as `id`, `noticia`.`es_activo`, `borrador`.`fecha_modificacion` as `fecha`, `borrador`.`titulo`, `borrador`.`descripcion`, `borrador`.`id` as `id_borrador`, `borrador`.`imagen`, `categoria`.`nombre` as `categoria`, `borrador`.`id_categoria`, `estado_noticia`.`id_estado`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+WHERE `noticia`.`id` = :noticia.id:
+AND borrador.fecha_modificacion = (SELECT MAX(fecha_modificacion) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND `estado_noticia`.`fecha` = $subconsultaEstados', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(45): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(329): App\Models\ModeloNoticia->obtenerNoticias('32')
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('32')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 22:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:34:14 --> CSRF token verified.
+INFO - 2024-05-09 22:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-09 22:34:14 --> CodeIgniter\Validation\Exceptions\ValidationException: "permit_empty " no es una regla válida.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('permit_empty ')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('imagen', 'imagen', null, [...], [...])
+ 3 APPPATH\Controllers\Noticia.php(401): CodeIgniter\Validation\Validation->run([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postEditar()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 22:34:56 --> CSRF token verified.
+INFO - 2024-05-09 22:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:40:56 --> CSRF token verified.
+INFO - 2024-05-09 22:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:36 --> CSRF token verified.
+INFO - 2024-05-09 22:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:46:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-09 22:51:14 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Controllers\Noticia.php on line 697.
+ 1 APPPATH\Controllers\Noticia.php(697): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 697)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->detalleParaValidar('53')
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-09 22:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:04 --> CSRF token verified.
+INFO - 2024-05-09 22:53:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:54:38 --> CSRF token verified.
+INFO - 2024-05-09 22:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 22:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:27:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-09 23:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,692 @@
+INFO - 2024-04-30 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:17:40 --> CSRF token verified.
+INFO - 2024-04-30 17:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:40:45 --> CSRF token verified.
+INFO - 2024-04-30 17:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:40:56 --> CSRF token verified.
+INFO - 2024-04-30 17:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:50:27 --> CSRF token verified.
+INFO - 2024-04-30 17:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 17:53:09 --> CSRF token verified.
+INFO - 2024-04-30 17:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 18:12:09 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia/post_editar', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 18:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:12:25 --> CSRF token verified.
+INFO - 2024-04-30 18:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:14:23 --> CSRF token verified.
+INFO - 2024-04-30 18:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:40 --> CSRF token verified.
+INFO - 2024-04-30 18:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:35:52 --> CSRF token verified.
+INFO - 2024-04-30 18:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 18:38:58 --> CSRF token verified.
+INFO - 2024-04-30 18:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:04:29 --> CSRF token verified.
+INFO - 2024-04-30 19:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:02 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:04 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:41 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:43 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:43 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:45 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:46 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:47 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:47 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:47 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:48 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:49 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:49 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Config\Services.php(819): CodeIgniter\Config\BaseService::getSharedInstance('validation', null)
+ 6 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation()
+ 7 SYSTEMPATH\Helpers\form_helper.php(704): CodeIgniter\Config\BaseService::__callStatic('validation', [])
+ 8 SYSTEMPATH\Helpers\form_helper.php(725): validation_errors()
+ 9 APPPATH\Views\usuarios\crear.php(3): validation_list_errors()
+10 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuarios\\crear.php')
+11 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('usuarios/crear', [], true)
+13 APPPATH\Controllers\Usuario.php(33): view('usuarios/crear', [...])
+14 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->nueva()
+15 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+16 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:49 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:49 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:49 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:50 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:54 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:06:55 --> Error: Class "App\Validations\BorradoresRules" not found
+in SYSTEMPATH\Validation\Validation.php on line 715.
+ 1 SYSTEMPATH\Validation\Validation.php(121): CodeIgniter\Validation\Validation->loadRuleSets()
+ 2 SYSTEMPATH\Config\Services.php(824): CodeIgniter\Validation\Validation->__construct(Object(Config\Validation), Object(CodeIgniter\View\View))
+ 3 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::validation(Object(Config\Validation), false)
+ 4 SYSTEMPATH\BaseModel.php(341): CodeIgniter\Config\BaseService::__callStatic('validation', [...])
+ 5 SYSTEMPATH\Model.php(158): CodeIgniter\BaseModel->__construct(null)
+ 6 SYSTEMPATH\Config\Factories.php(218): CodeIgniter\Model->__construct(Object(CodeIgniter\Database\MySQLi\Connection))
+ 7 SYSTEMPATH\Config\Factories.php(168): CodeIgniter\Config\Factories::createInstance('models', 'App\\Models\\ModeloNoticia', [...])
+ 8 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 9 APPPATH\Controllers\Noticia.php(19): model('App\\Models\\ModeloNoticia')
+10 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:09:15 --> CSRF token verified.
+INFO - 2024-04-30 19:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:36:56 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia/post_editar', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:37:09 --> CSRF token verified.
+INFO - 2024-04-30 19:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:38:46 --> ErrorException: include(../static/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory
+in APPPATH\Views\noticias\editarNoticia.php on line 107.
+ 1 APPPATH\Views\noticias\editarNoticia.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../static/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 107)
+ 2 APPPATH\Views\noticias\editarNoticia.php(107): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 6 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('12')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:38:47 --> ErrorException: include(../static/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory
+in APPPATH\Views\noticias\editarNoticia.php on line 107.
+ 1 APPPATH\Views\noticias\editarNoticia.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../static/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 107)
+ 2 APPPATH\Views\noticias\editarNoticia.php(107): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 6 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('12')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:38:52 --> ErrorException: include(../static/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory
+in APPPATH\Views\noticias\editarNoticia.php on line 107.
+ 1 APPPATH\Views\noticias\editarNoticia.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../static/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 107)
+ 2 APPPATH\Views\noticias\editarNoticia.php(107): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 6 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('12')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:40:28 --> ErrorException: include(../../imagenes/redes//exclamation-triangle.svg): Failed to open stream: No such file or directory
+in APPPATH\Views\noticias\editarNoticia.php on line 107.
+ 1 APPPATH\Views\noticias\editarNoticia.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../imagenes/redes//exclamation-triangle.svg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 107)
+ 2 APPPATH\Views\noticias\editarNoticia.php(107): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 6 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('12')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:40:37 --> ErrorException: include(../../imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory
+in APPPATH\Views\noticias\editarNoticia.php on line 107.
+ 1 APPPATH\Views\noticias\editarNoticia.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 107)
+ 2 APPPATH\Views\noticias\editarNoticia.php(107): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 6 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('12')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:41:38 --> ErrorException: include(../../public/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory
+in APPPATH\Views\noticias\editarNoticia.php on line 107.
+ 1 APPPATH\Views\noticias\editarNoticia.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../public/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 107)
+ 2 APPPATH\Views\noticias\editarNoticia.php(107): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 6 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('12')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:41:39 --> ErrorException: include(../../public/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory
+in APPPATH\Views\noticias\editarNoticia.php on line 107.
+ 1 APPPATH\Views\noticias\editarNoticia.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../public/imagenes/redes/exclamation-triangle.svg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 107)
+ 2 APPPATH\Views\noticias\editarNoticia.php(107): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 6 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->editar('12')
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:42:03 --> CSRF token verified.
+INFO - 2024-04-30 19:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:50:32 --> CSRF token verified.
+INFO - 2024-04-30 19:50:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 19:50:32 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\editarNoticia.php on line 110.
+ 1 APPPATH\Views\noticias\editarNoticia.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php', 110)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\editarNoticia.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/editarNoticia', [], true)
+ 5 APPPATH\Controllers\Noticia.php(255): view('noticias/editarNoticia', [...])
+ 6 APPPATH\Controllers\Noticia.php(300): App\Controllers\Noticia->editar('1')
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postEditar()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 19:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:51:00 --> CSRF token verified.
+INFO - 2024-04-30 19:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:54:45 --> CSRF token verified.
+INFO - 2024-04-30 19:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:55:02 --> CSRF token verified.
+INFO - 2024-04-30 19:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:56:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 19:58:17 --> CSRF token verified.
+INFO - 2024-04-30 19:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:00:22 --> CSRF token verified.
+INFO - 2024-04-30 20:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:00:31 --> CSRF token verified.
+INFO - 2024-04-30 20:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 20:04:57 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia/post_editar', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 20:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:13:20 --> CSRF token verified.
+INFO - 2024-04-30 20:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:17:06 --> CSRF token verified.
+INFO - 2024-04-30 20:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:21:06 --> CSRF token verified.
+INFO - 2024-04-30 20:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:21:18 --> CSRF token verified.
+INFO - 2024-04-30 20:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:27:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:27:39 --> CSRF token verified.
+INFO - 2024-04-30 20:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:28:22 --> CSRF token verified.
+INFO - 2024-04-30 20:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:32:43 --> CSRF token verified.
+INFO - 2024-04-30 20:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:35:31 --> CSRF token verified.
+INFO - 2024-04-30 20:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:22 --> CSRF token verified.
+INFO - 2024-04-30 20:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:50 --> CSRF token verified.
+INFO - 2024-04-30 20:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:38:03 --> CSRF token verified.
+INFO - 2024-04-30 20:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:38:10 --> CSRF token verified.
+INFO - 2024-04-30 20:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:50:11 --> CSRF token verified.
+INFO - 2024-04-30 20:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:50:25 --> CSRF token verified.
+INFO - 2024-04-30 20:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:52:42 --> CSRF token verified.
+INFO - 2024-04-30 20:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-30 20:53:45 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia/post_editar', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-30 20:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 20:53:58 --> CSRF token verified.
+INFO - 2024-04-30 20:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:23:31 --> CSRF token verified.
+INFO - 2024-04-30 21:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:28:02 --> CSRF token verified.
+INFO - 2024-04-30 21:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:28:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 21:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-30 22:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

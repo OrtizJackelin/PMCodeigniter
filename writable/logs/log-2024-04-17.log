@@ -1,0 +1,49 @@
+CRITICAL - 2024-04-17 20:24:38 --> BadMethodCallException: Call to undefined method App\Models\Nuevomodelo::getNews
+in SYSTEMPATH\Model.php on line 879.
+ 1 APPPATH\Controllers\Noticia.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:25:29 --> BadMethodCallException: Call to undefined method App\Models\Nuevomodelo::getNews
+in SYSTEMPATH\Model.php on line 879.
+ 1 APPPATH\Controllers\Noticia.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:25:30 --> BadMethodCallException: Call to undefined method App\Models\Nuevomodelo::getNews
+in SYSTEMPATH\Model.php on line 879.
+ 1 APPPATH\Controllers\Noticia.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:26:01 --> BadMethodCallException: Call to undefined method App\Models\Nuevomodelo::getNews
+in SYSTEMPATH\Model.php on line 879.
+ 1 APPPATH\Controllers\Noticia.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:26:02 --> BadMethodCallException: Call to undefined method App\Models\Nuevomodelo::getNews
+in SYSTEMPATH\Model.php on line 879.
+ 1 APPPATH\Controllers\Noticia.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:28:52 --> BadMethodCallException: Call to undefined method App\Models\Nuevomodelo::getNews
+in SYSTEMPATH\Model.php on line 879.
+ 1 APPPATH\Controllers\Noticia.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:29:42 --> BadMethodCallException: Call to undefined method App\Models\Nuevomodelo::getNews
+in SYSTEMPATH\Model.php on line 879.
+ 1 APPPATH\Controllers\Noticia.php(13): CodeIgniter\Model->__call('getNews', [])
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

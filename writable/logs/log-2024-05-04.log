@@ -1,0 +1,1232 @@
+INFO - 2024-05-04 16:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:06:02 --> CSRF token verified.
+INFO - 2024-05-04 17:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 17:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 17:11:03 --> ParseError: syntax error, unexpected identifier "lee", expecting "]"
+in APPPATH\Controllers\Noticia.php on line 484.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 17:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 19:14:23 --> ErrorException: date_default_timezone_set(): Timezone ID 'America/Argrntina/Buenos_Aires' is invalid
+in SYSTEMPATH\CodeIgniter.php on line 221.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_timezone_set(): Timezone ID \'America/Argrntina/Buenos_Aires\' is invalid', 'C:\\xampp\\htdocs\\codeigniter4\\system\\CodeIgniter.php', 221)
+ 2 SYSTEMPATH\CodeIgniter.php(221): date_default_timezone_set('America/Argrntina/Buenos_Aires')
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-04 19:14:27 --> ErrorException: date_default_timezone_set(): Timezone ID 'America/Argrntina/Buenos_Aires' is invalid
+in SYSTEMPATH\CodeIgniter.php on line 221.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_timezone_set(): Timezone ID \'America/Argrntina/Buenos_Aires\' is invalid', 'C:\\xampp\\htdocs\\codeigniter4\\system\\CodeIgniter.php', 221)
+ 2 SYSTEMPATH\CodeIgniter.php(221): date_default_timezone_set('America/Argrntina/Buenos_Aires')
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-04 19:14:29 --> ErrorException: date_default_timezone_set(): Timezone ID 'America/Argrntina/Buenos_Aires' is invalid
+in SYSTEMPATH\CodeIgniter.php on line 221.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_timezone_set(): Timezone ID \'America/Argrntina/Buenos_Aires\' is invalid', 'C:\\xampp\\htdocs\\codeigniter4\\system\\CodeIgniter.php', 221)
+ 2 SYSTEMPATH\CodeIgniter.php(221): date_default_timezone_set('America/Argrntina/Buenos_Aires')
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-04 19:14:29 --> ErrorException: date_default_timezone_set(): Timezone ID 'America/Argrntina/Buenos_Aires' is invalid
+in SYSTEMPATH\CodeIgniter.php on line 221.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'date_default_timezone_set(): Timezone ID \'America/Argrntina/Buenos_Aires\' is invalid', 'C:\\xampp\\htdocs\\codeigniter4\\system\\CodeIgniter.php', 221)
+ 2 SYSTEMPATH\CodeIgniter.php(221): date_default_timezone_set('America/Argrntina/Buenos_Aires')
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+INFO - 2024-05-04 14:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:20:33 --> CSRF token verified.
+INFO - 2024-05-04 14:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 14:20:33 --> CodeIgniter\Validation\Exceptions\ValidationException: "permit_empty " is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('permit_empty ')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('imagen', 'imagen', null, [...], [...])
+ 3 APPPATH\Controllers\Noticia.php(495): CodeIgniter\Validation\Validation->run([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 14:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:21:11 --> CSRF token verified.
+INFO - 2024-05-04 14:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:24:46 --> CSRF token verified.
+INFO - 2024-05-04 14:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 14:28:14 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 14:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:30:07 --> CSRF token verified.
+INFO - 2024-05-04 14:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 14:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 15:52:17 --> ErrorException: unlink(C:\xampp\htdocs\codeigniter4\writable\debugbar/debugbar_1714848643.588169.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 80.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\codeigniter4\\writable\\debugbar/debugbar_1714848643.588169.json): No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\system\\Debug\\Toolbar\\Collectors\\History.php', 80)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(80): unlink('C:\\xampp\\htdocs\\codeigniter4\\writable\\debugbar/debugbar_1714848643.588169.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(496): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1714848736.917491', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(475): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 15:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:56:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:58:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 15:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:00:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:40 --> CSRF token verified.
+INFO - 2024-05-04 16:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:17:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 16:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:16:02 --> CSRF token verified.
+INFO - 2024-05-04 19:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 19:16:02 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Usuario.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->validarSesion()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 19:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:17:44 --> CSRF token verified.
+INFO - 2024-05-04 19:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 19:17:44 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Usuario.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->validarSesion()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 19:21:49 --> CSRF token verified.
+INFO - 2024-05-04 19:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 19:21:49 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Usuario.php on line 159.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->validarSesion()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 19:22:35 --> CSRF token verified.
+INFO - 2024-05-04 19:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 19:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 20:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 20:10:03 --> ParseError: syntax error, unexpected token "=", expecting ")"
+in APPPATH\Models\ModeloNoticia.php on line 110.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Models\\ModeloNoticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ModeloNoticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ModeloNoticia')
+ 4 SYSTEMPATH\Config\Factories.php(280): class_exists('App\\Models\\ModeloNoticia')
+ 5 SYSTEMPATH\Config\Factories.php(199): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\ModeloNoticia')
+ 6 SYSTEMPATH\Config\Factories.php(158): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\ModeloNoticia', [...])
+ 7 SYSTEMPATH\Common.php(813): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Noticia.php(24): model('App\\Models\\ModeloNoticia')
+ 9 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Noticia->__construct()
+10 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->createController()
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 20:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 20:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:04 --> CSRF token verified.
+INFO - 2024-05-04 21:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-04 21:30:31 --> mysqli_sql_exception: Unknown column 'borrador.categoria' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrado...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrado...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrado...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrado...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(105): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-04 21:30:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'borrador.categoria' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(105): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:30:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'borrador.categoria' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(105): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:30:31 --> [Caused by] mysqli_sql_exception: Unknown column 'borrador.categoria' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `borrador`.`categoria`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(105): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-04 21:32:46 --> mysqli_sql_exception: Unknown column 'tabla_categoria.nombre' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrado...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrado...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrado...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrado...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-04 21:32:46 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tabla_categoria.nombre' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:32:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tabla_categoria.nombre' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:32:46 --> [Caused by] mysqli_sql_exception: Unknown column 'tabla_categoria.nombre' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `tabla_categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-04 21:33:23 --> mysqli_sql_exception: Unknown column 'tabla_categoria.id' in 'on clause' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrado...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrado...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrado...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrado...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-04 21:33:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tabla_categoria.id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:33:23 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tabla_categoria.id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:33:23 --> [Caused by] mysqli_sql_exception: Unknown column 'tabla_categoria.id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `usuario` ON `usuario`.`id` = `noticia`.`id_usuario`
+JOIN `categoria` ON `tabla_categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:
+ORDER BY (SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia) DESC', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(598): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:33:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-04 21:36:08 --> mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrado...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrado...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrado...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrado...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-04 21:36:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:08 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:08 --> [Caused by] mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-04 21:36:12 --> mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrado...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrado...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrado...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrado...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-04 21:36:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:12 --> [Caused by] mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-04 21:36:41 --> mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrado...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrado...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrado...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrado...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-04 21:36:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:41 --> [Caused by] mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-04 21:36:55 --> mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrado...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrado...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrado...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrado...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-04 21:36:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:36:55 --> [Caused by] mysqli_sql_exception: Unknown column 'usuario.correo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = 1
+AND `estado_noticia`.`fecha` = \'(SELECT MAX(fecha_modificacion) FROM estado_noticia WHERE noticia.id = estado_noticia.id_noticia)\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `borrador`.`titulo`, `categoria`.`nombre`, `borrador`.`descripcion`, `borrador`.`imagen`, `noticia`.`id`, `estado_noticia`.`fecha`, `usuario`.`correo`
+FROM `borrador`
+JOIN `noticia` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `estado_noticia`.`id_noticia` = `noticia`.`id`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `estado_noticia`.`id` = :estado_noticia.id:
+AND `estado_noticia`.`fecha` = :estado_noticia.fecha:', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(106): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(597): App\Models\ModeloNoticia->obtenerNoticiasParaValidar()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:48:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 21:51:31 --> ParseError: syntax error, unexpected token "*"
+in APPPATH\Controllers\Noticia.php on line 634.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-04 21:51:31 --> ParseError: syntax error, unexpected token "*"
+in APPPATH\Controllers\Noticia.php on line 634.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 21:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 21:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 21:58:39 --> ErrorException: Undefined array key "estado"
+in APPPATH\Controllers\Noticia.php on line 610.
+ 1 APPPATH\Controllers\Noticia.php(610): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "estado"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 610)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(604): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 22:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 22:00:02 --> ErrorException: Undefined array key "estado"
+in APPPATH\Controllers\Noticia.php on line 613.
+ 1 APPPATH\Controllers\Noticia.php(613): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "estado"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 613)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(604): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 22:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 22:00:03 --> ErrorException: Undefined array key "estado"
+in APPPATH\Controllers\Noticia.php on line 613.
+ 1 APPPATH\Controllers\Noticia.php(613): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "estado"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 613)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(604): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->validarPublicacion()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 22:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:06:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:20:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:20:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:50:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 22:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

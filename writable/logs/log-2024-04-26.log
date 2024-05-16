@@ -1,0 +1,86 @@
+INFO - 2024-04-26 01:47:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 01:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 02:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 02:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 03:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 03:50:14 --> CSRF token verified.
+INFO - 2024-04-26 03:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 03:57:20 --> CSRF token verified.
+CRITICAL - 2024-04-26 03:58:45 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('usuario', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 03:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 03:59:39 --> CSRF token verified.
+INFO - 2024-04-26 03:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-26 04:08:01 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('usuario', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 04:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:09:04 --> CSRF token verified.
+CRITICAL - 2024-04-26 04:09:05 --> ErrorException: Undefined array key "es_editor"
+in APPPATH\Controllers\Usuario.php on line 81.
+ 1 APPPATH\Controllers\Usuario.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es_editor"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuario.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->crear()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 04:10:08 --> CSRF token verified.
+CRITICAL - 2024-04-26 04:10:08 --> ErrorException: Undefined array key "es_editor"
+in APPPATH\Controllers\Usuario.php on line 81.
+ 1 APPPATH\Controllers\Usuario.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es_editor"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuario.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->crear()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 04:11:07 --> CSRF token verified.
+INFO - 2024-04-26 04:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:14:53 --> CSRF token verified.
+CRITICAL - 2024-04-26 04:20:39 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('usuario', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 04:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-26 04:21:22 --> CSRF token verified.
+CRITICAL - 2024-04-26 04:21:23 --> ErrorException: Undefined array key "es_validador"
+in APPPATH\Controllers\Usuario.php on line 81.
+ 1 APPPATH\Controllers\Usuario.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es_validador"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuario.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->crear()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 04:22:28 --> CSRF token verified.
+CRITICAL - 2024-04-26 04:22:29 --> ErrorException: Undefined array key "es_editor"
+in APPPATH\Controllers\Usuario.php on line 81.
+ 1 APPPATH\Controllers\Usuario.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es_editor"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuario.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->crear()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 04:22:30 --> CSRF token verified.
+CRITICAL - 2024-04-26 04:22:30 --> ErrorException: Undefined array key "es_editor"
+in APPPATH\Controllers\Usuario.php on line 81.
+ 1 APPPATH\Controllers\Usuario.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es_editor"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuario.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Usuario->crear()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-26 21:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

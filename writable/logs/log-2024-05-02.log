@@ -1,0 +1,955 @@
+INFO - 2024-05-02 00:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 00:41:28 --> Error: Call to undefined function word_limiter()
+in APPPATH\Views\noticias\contenidoPrincipalP.php on line 28.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipalP', [], true)
+ 4 APPPATH\Controllers\Noticia.php(105): view('noticias/contenidoPrincipalP', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 6 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 00:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 00:41:38 --> Error: Call to undefined function word_limiter()
+in APPPATH\Views\noticias\contenidoPrincipalP.php on line 28.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipalP', [], true)
+ 4 APPPATH\Controllers\Noticia.php(105): view('noticias/contenidoPrincipalP', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 6 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 00:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:43:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 00:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 01:29:14 --> Error: Call to a member function obtenerCantidadNotciasActivasEnBorradorPorUsuario() on array
+in APPPATH\Controllers\Noticia.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 01:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:26 --> CSRF token verified.
+INFO - 2024-05-02 01:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 01:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 02:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 02:32:16 --> ErrorException: Undefined variable $noticia
+in APPPATH\Views\noticias\nueva.php on line 18.
+ 1 APPPATH\Views\noticias\nueva.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $noticia', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\nueva.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\nueva.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/nueva', [], true)
+ 5 APPPATH\Controllers\Noticia.php(329): view('noticias/nueva', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 02:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 02:32:17 --> ErrorException: Undefined variable $noticia
+in APPPATH\Views\noticias\nueva.php on line 18.
+ 1 APPPATH\Views\noticias\nueva.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $noticia', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\nueva.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\nueva.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/nueva', [], true)
+ 5 APPPATH\Controllers\Noticia.php(329): view('noticias/nueva', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 02:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 02:39:58 --> CSRF token verified.
+INFO - 2024-05-02 02:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 02:40:45 --> CSRF token verified.
+INFO - 2024-05-02 02:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 02:42:29 --> CSRF token verified.
+INFO - 2024-05-02 02:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-02 02:42:29 --> mysqli_sql_exception: Column 'id_noticia' cannot be null in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `bo...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bo...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bo...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bo...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(380): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-02 02:42:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_noticia' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (:id_noticia:, :titulo:, :id_categoria:, :descripcion:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Noticia.php(380): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 02:42:29 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_noticia' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (NULL, \'Descargar WhatsApp Plus: la última versión del APK de mayo 2024\', \'4\', \'                                En la Argentina, muchos usuarios prefieren usar esta app alternativa porque tiene funcionalidades distintas a la aplicación de Meta; ¿cuál es el paso a paso para bajarla en el celular?\\r\\n\\r\\nWhatsApp Plus se convirtió en la aplicación más elegida por los usuarios que desean tener novedosas funcionalidades que no ofrece la aplicación oficial de Meta. Esta versión alternativa está habilitada en celulares Android y mes a mes se actualiza.\\r\\n\\r\\nEn primer lugar, es importante recordar que WhatsApp Plus, al no ser original, no está disponible en Play Store. Entonces, para poder bajarse esta app alternativa, antes el usuario debe descargar Android Application Package (APK), que es un paquete de información que permite instalar aplicaciones que no están la tienda de Google. Por otro lado, también es fundamental tener en cuenta que WhatsApp Plus no es compatible con la app WhatsApp original, por lo que es necesario desinstalar la aplicación de Meta antes de bajar esta versión no oficial.\\r\\n\\r\\nAsimismo, desde Meta, compañía responsable de redes sociales como Facebook, Instagram y WhatsApp, le remarcaron a LA NACION: “Las apps falsas plantean riesgos de seguridad, como el envío de spam y estafas a otras personas sin tu conocimiento. Tus mensajes solo son seguros y privados cuando usás WhatsApp oficial”.\\r\\n\\r\\nCómo descargar el APK para usar WhatsApp Plus en el celular\\r\\nAquellos usuarios que quieran instalar WhatsApp Plus en sus celulares, deben descargar el APK, como se mencionó anteriormente, para usar la app. Para eso, hay acceder a los “Ajustes”, luego ir a “Seguridad” y activar la opción de “Orígenes desconocidos”.\\r\\n\\r\\nTras activar esta opción, hay que habilitar la instalación de aplicaciones que no pertenezcan a Google Play. Una vez que esté activada, ya se puede ingresar al archivo APK e instalarlo en el dispositivo.\\r\\n\\r\\nPaso a paso para descargar e instalar WhatsApp Plus en mayo 2024\\r\\nLa última versión que salió de WhatsApp Plus es la v17.70, que está disponible para instalar en abril. Aquellas personas que deseen descargarla, deben seguir los siguientes pasos:\\r\\n\\r\\nHacer una copia de seguridad de tu WhatsApp original.\\r\\nDesinstalar completamente la aplicación oficial de WhatsApp.\\r\\nRevisar y elimina cualquier carpeta residual en el almacenamiento interno.\\r\\nDescargar la última versión de WhatsApp Plus en el siguiente link.\\r\\nHabilitar los permisos correspondientes a Google Chrome para la app de instalación de terceros.\\r\\nSeguir el proceso de instalación del APK, acepta los términos y condiciones, ingresar el número de teléfono y personalizar el perfil como se desee.\\r\\nUna vez que hayan terminado, abrir WhatsApp Plus V 17.70 y ya podrán utilizar la aplicación.\\r\\n\\r\\nCuáles son los cinco riesgos de instalar WhatsApp Plus en los dispositivos móviles\\r\\nAquellas personas que decidan usar la versión de WhatsApp Plus deben tener en cuenta que:\\r\\n\\r\\nLa aplicación puede poner en riesgo el celular y robar datos personales de los usuarios por personas terceras.\\r\\nLa aplicación no está aprobada por Meta.\\r\\nPuede no ser compatible por WhatsApp, ya que no cuenta con cifrado extremo, algo que sí viene con la versión original, por lo que los protocolos de encriptación se detienen.\\r\\nWhatsApp registra cuando un usuario instala la versión ilegal de su app y puede bloquear la cuenta para siempre, lo que imposibilita luego habitar la aplicación oficial.\\r\\nWhatsApp Plus actualiza su sistema operativo continuamente y agrega más funcionalidades, al mismo tiempo que quita otras que están habilitadas.\\r\\n                             \\r\\n                             \\r\\n                \')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (NULL, \'Descargar WhatsApp Plus: la última versión del APK de mayo 2024\', \'4\', \'                                En la Argentina, muchos usuarios prefieren usar esta app alternativa porque tiene funcionalidades distintas a la aplicación de Meta; ¿cuál es el paso a paso para bajarla en el celular?\\r\\n\\r\\nWhatsApp Plus se convirtió en la aplicación más elegida por los usuarios que desean tener novedosas funcionalidades que no ofrece la aplicación oficial de Meta. Esta versión alternativa está habilitada en celulares Android y mes a mes se actualiza.\\r\\n\\r\\nEn primer lugar, es importante recordar que WhatsApp Plus, al no ser original, no está disponible en Play Store. Entonces, para poder bajarse esta app alternativa, antes el usuario debe descargar Android Application Package (APK), que es un paquete de información que permite instalar aplicaciones que no están la tienda de Google. Por otro lado, también es fundamental tener en cuenta que WhatsApp Plus no es compatible con la app WhatsApp original, por lo que es necesario desinstalar la aplicación de Meta antes de bajar esta versión no oficial.\\r\\n\\r\\nAsimismo, desde Meta, compañía responsable de redes sociales como Facebook, Instagram y WhatsApp, le remarcaron a LA NACION: “Las apps falsas plantean riesgos de seguridad, como el envío de spam y estafas a otras personas sin tu conocimiento. Tus mensajes solo son seguros y privados cuando usás WhatsApp oficial”.\\r\\n\\r\\nCómo descargar el APK para usar WhatsApp Plus en el celular\\r\\nAquellos usuarios que quieran instalar WhatsApp Plus en sus celulares, deben descargar el APK, como se mencionó anteriormente, para usar la app. Para eso, hay acceder a los “Ajustes”, luego ir a “Seguridad” y activar la opción de “Orígenes desconocidos”.\\r\\n\\r\\nTras activar esta opción, hay que habilitar la instalación de aplicaciones que no pertenezcan a Google Play. Una vez que esté activada, ya se puede ingresar al archivo APK e instalarlo en el dispositivo.\\r\\n\\r\\nPaso a paso para descargar e instalar WhatsApp Plus en mayo 2024\\r\\nLa última versión que salió de WhatsApp Plus es la v17.70, que está disponible para instalar en abril. Aquellas personas que deseen descargarla, deben seguir los siguientes pasos:\\r\\n\\r\\nHacer una copia de seguridad de tu WhatsApp original.\\r\\nDesinstalar completamente la aplicación oficial de WhatsApp.\\r\\nRevisar y elimina cualquier carpeta residual en el almacenamiento interno.\\r\\nDescargar la última versión de WhatsApp Plus en el siguiente link.\\r\\nHabilitar los permisos correspondientes a Google Chrome para la app de instalación de terceros.\\r\\nSeguir el proceso de instalación del APK, acepta los términos y condiciones, ingresar el número de teléfono y personalizar el perfil como se desee.\\r\\nUna vez que hayan terminado, abrir WhatsApp Plus V 17.70 y ya podrán utilizar la aplicación.\\r\\n\\r\\nCuáles son los cinco riesgos de instalar WhatsApp Plus en los dispositivos móviles\\r\\nAquellas personas que decidan usar la versión de WhatsApp Plus deben tener en cuenta que:\\r\\n\\r\\nLa aplicación puede poner en riesgo el celular y robar datos personales de los usuarios por personas terceras.\\r\\nLa aplicación no está aprobada por Meta.\\r\\nPuede no ser compatible por WhatsApp, ya que no cuenta con cifrado extremo, algo que sí viene con la versión original, por lo que los protocolos de encriptación se detienen.\\r\\nWhatsApp registra cuando un usuario instala la versión ilegal de su app y puede bloquear la cuenta para siempre, lo que imposibilita luego habitar la aplicación oficial.\\r\\nWhatsApp Plus actualiza su sistema operativo continuamente y agrega más funcionalidades, al mismo tiempo que quita otras que están habilitadas.\\r\\n                             \\r\\n                             \\r\\n                \')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (:id_noticia:, :titulo:, :id_categoria:, :descripcion:)', [...], false)
+ 4 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Noticia.php(380): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 9 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 02:42:29 --> [Caused by] mysqli_sql_exception: Column 'id_noticia' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (NULL, \'Descargar WhatsApp Plus: la última versión del APK de mayo 2024\', \'4\', \'                                En la Argentina, muchos usuarios prefieren usar esta app alternativa porque tiene funcionalidades distintas a la aplicación de Meta; ¿cuál es el paso a paso para bajarla en el celular?\\r\\n\\r\\nWhatsApp Plus se convirtió en la aplicación más elegida por los usuarios que desean tener novedosas funcionalidades que no ofrece la aplicación oficial de Meta. Esta versión alternativa está habilitada en celulares Android y mes a mes se actualiza.\\r\\n\\r\\nEn primer lugar, es importante recordar que WhatsApp Plus, al no ser original, no está disponible en Play Store. Entonces, para poder bajarse esta app alternativa, antes el usuario debe descargar Android Application Package (APK), que es un paquete de información que permite instalar aplicaciones que no están la tienda de Google. Por otro lado, también es fundamental tener en cuenta que WhatsApp Plus no es compatible con la app WhatsApp original, por lo que es necesario desinstalar la aplicación de Meta antes de bajar esta versión no oficial.\\r\\n\\r\\nAsimismo, desde Meta, compañía responsable de redes sociales como Facebook, Instagram y WhatsApp, le remarcaron a LA NACION: “Las apps falsas plantean riesgos de seguridad, como el envío de spam y estafas a otras personas sin tu conocimiento. Tus mensajes solo son seguros y privados cuando usás WhatsApp oficial”.\\r\\n\\r\\nCómo descargar el APK para usar WhatsApp Plus en el celular\\r\\nAquellos usuarios que quieran instalar WhatsApp Plus en sus celulares, deben descargar el APK, como se mencionó anteriormente, para usar la app. Para eso, hay acceder a los “Ajustes”, luego ir a “Seguridad” y activar la opción de “Orígenes desconocidos”.\\r\\n\\r\\nTras activar esta opción, hay que habilitar la instalación de aplicaciones que no pertenezcan a Google Play. Una vez que esté activada, ya se puede ingresar al archivo APK e instalarlo en el dispositivo.\\r\\n\\r\\nPaso a paso para descargar e instalar WhatsApp Plus en mayo 2024\\r\\nLa última versión que salió de WhatsApp Plus es la v17.70, que está disponible para instalar en abril. Aquellas personas que deseen descargarla, deben seguir los siguientes pasos:\\r\\n\\r\\nHacer una copia de seguridad de tu WhatsApp original.\\r\\nDesinstalar completamente la aplicación oficial de WhatsApp.\\r\\nRevisar y elimina cualquier carpeta residual en el almacenamiento interno.\\r\\nDescargar la última versión de WhatsApp Plus en el siguiente link.\\r\\nHabilitar los permisos correspondientes a Google Chrome para la app de instalación de terceros.\\r\\nSeguir el proceso de instalación del APK, acepta los términos y condiciones, ingresar el número de teléfono y personalizar el perfil como se desee.\\r\\nUna vez que hayan terminado, abrir WhatsApp Plus V 17.70 y ya podrán utilizar la aplicación.\\r\\n\\r\\nCuáles son los cinco riesgos de instalar WhatsApp Plus en los dispositivos móviles\\r\\nAquellas personas que decidan usar la versión de WhatsApp Plus deben tener en cuenta que:\\r\\n\\r\\nLa aplicación puede poner en riesgo el celular y robar datos personales de los usuarios por personas terceras.\\r\\nLa aplicación no está aprobada por Meta.\\r\\nPuede no ser compatible por WhatsApp, ya que no cuenta con cifrado extremo, algo que sí viene con la versión original, por lo que los protocolos de encriptación se detienen.\\r\\nWhatsApp registra cuando un usuario instala la versión ilegal de su app y puede bloquear la cuenta para siempre, lo que imposibilita luego habitar la aplicación oficial.\\r\\nWhatsApp Plus actualiza su sistema operativo continuamente y agrega más funcionalidades, al mismo tiempo que quita otras que están habilitadas.\\r\\n                             \\r\\n                             \\r\\n                \')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (NULL, \'Descargar WhatsApp Plus: la última versión del APK de mayo 2024\', \'4\', \'                                En la Argentina, muchos usuarios prefieren usar esta app alternativa porque tiene funcionalidades distintas a la aplicación de Meta; ¿cuál es el paso a paso para bajarla en el celular?\\r\\n\\r\\nWhatsApp Plus se convirtió en la aplicación más elegida por los usuarios que desean tener novedosas funcionalidades que no ofrece la aplicación oficial de Meta. Esta versión alternativa está habilitada en celulares Android y mes a mes se actualiza.\\r\\n\\r\\nEn primer lugar, es importante recordar que WhatsApp Plus, al no ser original, no está disponible en Play Store. Entonces, para poder bajarse esta app alternativa, antes el usuario debe descargar Android Application Package (APK), que es un paquete de información que permite instalar aplicaciones que no están la tienda de Google. Por otro lado, también es fundamental tener en cuenta que WhatsApp Plus no es compatible con la app WhatsApp original, por lo que es necesario desinstalar la aplicación de Meta antes de bajar esta versión no oficial.\\r\\n\\r\\nAsimismo, desde Meta, compañía responsable de redes sociales como Facebook, Instagram y WhatsApp, le remarcaron a LA NACION: “Las apps falsas plantean riesgos de seguridad, como el envío de spam y estafas a otras personas sin tu conocimiento. Tus mensajes solo son seguros y privados cuando usás WhatsApp oficial”.\\r\\n\\r\\nCómo descargar el APK para usar WhatsApp Plus en el celular\\r\\nAquellos usuarios que quieran instalar WhatsApp Plus en sus celulares, deben descargar el APK, como se mencionó anteriormente, para usar la app. Para eso, hay acceder a los “Ajustes”, luego ir a “Seguridad” y activar la opción de “Orígenes desconocidos”.\\r\\n\\r\\nTras activar esta opción, hay que habilitar la instalación de aplicaciones que no pertenezcan a Google Play. Una vez que esté activada, ya se puede ingresar al archivo APK e instalarlo en el dispositivo.\\r\\n\\r\\nPaso a paso para descargar e instalar WhatsApp Plus en mayo 2024\\r\\nLa última versión que salió de WhatsApp Plus es la v17.70, que está disponible para instalar en abril. Aquellas personas que deseen descargarla, deben seguir los siguientes pasos:\\r\\n\\r\\nHacer una copia de seguridad de tu WhatsApp original.\\r\\nDesinstalar completamente la aplicación oficial de WhatsApp.\\r\\nRevisar y elimina cualquier carpeta residual en el almacenamiento interno.\\r\\nDescargar la última versión de WhatsApp Plus en el siguiente link.\\r\\nHabilitar los permisos correspondientes a Google Chrome para la app de instalación de terceros.\\r\\nSeguir el proceso de instalación del APK, acepta los términos y condiciones, ingresar el número de teléfono y personalizar el perfil como se desee.\\r\\nUna vez que hayan terminado, abrir WhatsApp Plus V 17.70 y ya podrán utilizar la aplicación.\\r\\n\\r\\nCuáles son los cinco riesgos de instalar WhatsApp Plus en los dispositivos móviles\\r\\nAquellas personas que decidan usar la versión de WhatsApp Plus deben tener en cuenta que:\\r\\n\\r\\nLa aplicación puede poner en riesgo el celular y robar datos personales de los usuarios por personas terceras.\\r\\nLa aplicación no está aprobada por Meta.\\r\\nPuede no ser compatible por WhatsApp, ya que no cuenta con cifrado extremo, algo que sí viene con la versión original, por lo que los protocolos de encriptación se detienen.\\r\\nWhatsApp registra cuando un usuario instala la versión ilegal de su app y puede bloquear la cuenta para siempre, lo que imposibilita luego habitar la aplicación oficial.\\r\\nWhatsApp Plus actualiza su sistema operativo continuamente y agrega más funcionalidades, al mismo tiempo que quita otras que están habilitadas.\\r\\n                             \\r\\n                             \\r\\n                \')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (NULL, \'Descargar WhatsApp Plus: la última versión del APK de mayo 2024\', \'4\', \'                                En la Argentina, muchos usuarios prefieren usar esta app alternativa porque tiene funcionalidades distintas a la aplicación de Meta; ¿cuál es el paso a paso para bajarla en el celular?\\r\\n\\r\\nWhatsApp Plus se convirtió en la aplicación más elegida por los usuarios que desean tener novedosas funcionalidades que no ofrece la aplicación oficial de Meta. Esta versión alternativa está habilitada en celulares Android y mes a mes se actualiza.\\r\\n\\r\\nEn primer lugar, es importante recordar que WhatsApp Plus, al no ser original, no está disponible en Play Store. Entonces, para poder bajarse esta app alternativa, antes el usuario debe descargar Android Application Package (APK), que es un paquete de información que permite instalar aplicaciones que no están la tienda de Google. Por otro lado, también es fundamental tener en cuenta que WhatsApp Plus no es compatible con la app WhatsApp original, por lo que es necesario desinstalar la aplicación de Meta antes de bajar esta versión no oficial.\\r\\n\\r\\nAsimismo, desde Meta, compañía responsable de redes sociales como Facebook, Instagram y WhatsApp, le remarcaron a LA NACION: “Las apps falsas plantean riesgos de seguridad, como el envío de spam y estafas a otras personas sin tu conocimiento. Tus mensajes solo son seguros y privados cuando usás WhatsApp oficial”.\\r\\n\\r\\nCómo descargar el APK para usar WhatsApp Plus en el celular\\r\\nAquellos usuarios que quieran instalar WhatsApp Plus en sus celulares, deben descargar el APK, como se mencionó anteriormente, para usar la app. Para eso, hay acceder a los “Ajustes”, luego ir a “Seguridad” y activar la opción de “Orígenes desconocidos”.\\r\\n\\r\\nTras activar esta opción, hay que habilitar la instalación de aplicaciones que no pertenezcan a Google Play. Una vez que esté activada, ya se puede ingresar al archivo APK e instalarlo en el dispositivo.\\r\\n\\r\\nPaso a paso para descargar e instalar WhatsApp Plus en mayo 2024\\r\\nLa última versión que salió de WhatsApp Plus es la v17.70, que está disponible para instalar en abril. Aquellas personas que deseen descargarla, deben seguir los siguientes pasos:\\r\\n\\r\\nHacer una copia de seguridad de tu WhatsApp original.\\r\\nDesinstalar completamente la aplicación oficial de WhatsApp.\\r\\nRevisar y elimina cualquier carpeta residual en el almacenamiento interno.\\r\\nDescargar la última versión de WhatsApp Plus en el siguiente link.\\r\\nHabilitar los permisos correspondientes a Google Chrome para la app de instalación de terceros.\\r\\nSeguir el proceso de instalación del APK, acepta los términos y condiciones, ingresar el número de teléfono y personalizar el perfil como se desee.\\r\\nUna vez que hayan terminado, abrir WhatsApp Plus V 17.70 y ya podrán utilizar la aplicación.\\r\\n\\r\\nCuáles son los cinco riesgos de instalar WhatsApp Plus en los dispositivos móviles\\r\\nAquellas personas que decidan usar la versión de WhatsApp Plus deben tener en cuenta que:\\r\\n\\r\\nLa aplicación puede poner en riesgo el celular y robar datos personales de los usuarios por personas terceras.\\r\\nLa aplicación no está aprobada por Meta.\\r\\nPuede no ser compatible por WhatsApp, ya que no cuenta con cifrado extremo, algo que sí viene con la versión original, por lo que los protocolos de encriptación se detienen.\\r\\nWhatsApp registra cuando un usuario instala la versión ilegal de su app y puede bloquear la cuenta para siempre, lo que imposibilita luego habitar la aplicación oficial.\\r\\nWhatsApp Plus actualiza su sistema operativo continuamente y agrega más funcionalidades, al mismo tiempo que quita otras que están habilitadas.\\r\\n                             \\r\\n                             \\r\\n                \')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `borrador` (`id_noticia`, `titulo`, `id_categoria`, `descripcion`) VALUES (:id_noticia:, :titulo:, :id_categoria:, :descripcion:)', [...], false)
+ 5 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Noticia.php(380): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+10 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 02:44:01 --> CSRF token verified.
+INFO - 2024-05-02 02:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-02 02:44:01 --> mysqli_sql_exception: Column 'id_noticia' cannot be null in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `es...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `es...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `es...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `es...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(713): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(387): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-02 02:44:01 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_noticia' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (:id_noticia:, :id_estado:, :id_usuario:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Noticia.php(387): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 02:44:01 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_noticia' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (NULL, \'2\', \'22\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (NULL, \'2\', \'22\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (:id_noticia:, :id_estado:, :id_usuario:)', [...], false)
+ 4 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], false)
+ 7 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 8 APPPATH\Controllers\Noticia.php(387): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+10 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 02:44:01 --> [Caused by] mysqli_sql_exception: Column 'id_noticia' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (NULL, \'2\', \'22\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (NULL, \'2\', \'22\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (NULL, \'2\', \'22\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `estado_noticia` (`id_noticia`, `id_estado`, `id_usuario`) VALUES (:id_noticia:, :id_estado:, :id_usuario:)', [...], false)
+ 5 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\Noticia.php(387): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+11 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 02:45:12 --> CSRF token verified.
+INFO - 2024-05-02 02:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 02:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 02:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 02:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:13:09 --> CSRF token verified.
+INFO - 2024-05-02 03:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:13:23 --> CSRF token verified.
+INFO - 2024-05-02 03:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:30:19 --> CSRF token verified.
+INFO - 2024-05-02 03:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:31:58 --> CSRF token verified.
+INFO - 2024-05-02 03:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:31:58 --> CodeIgniter\Validation\Exceptions\ValidationException: "" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('imagen', 'imagen', null, [...], [...])
+ 3 APPPATH\Controllers\Noticia.php(365): CodeIgniter\Validation\Validation->run([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 03:33:39 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 03:34:13 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:34:41 --> CSRF token verified.
+INFO - 2024-05-02 03:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:34:41 --> CodeIgniter\Validation\Exceptions\ValidationException: "" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('imagen', 'imagen', null, [...], [...])
+ 3 APPPATH\Controllers\Noticia.php(363): CodeIgniter\Validation\Validation->run([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:35:32 --> CSRF token verified.
+INFO - 2024-05-02 03:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:36:27 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:36:50 --> CSRF token verified.
+INFO - 2024-05-02 03:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:36:50 --> CodeIgniter\Validation\Exceptions\ValidationException: "" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('imagen', 'imagen', null, [...], [...])
+ 3 APPPATH\Controllers\Noticia.php(365): CodeIgniter\Validation\Validation->run([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:37:48 --> CSRF token verified.
+INFO - 2024-05-02 03:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:37:49 --> CodeIgniter\Validation\Exceptions\ValidationException: "" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('imagen', 'imagen', null, [...], [...])
+ 3 APPPATH\Controllers\Noticia.php(365): CodeIgniter\Validation\Validation->run([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:38:59 --> CSRF token verified.
+INFO - 2024-05-02 03:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:39:42 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:40:05 --> CSRF token verified.
+INFO - 2024-05-02 03:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:40:05 --> CodeIgniter\Validation\Exceptions\ValidationException: "" is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 336.
+ 1 SYSTEMPATH\Validation\Validation.php(336): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+ 2 SYSTEMPATH\Validation\Validation.php(200): CodeIgniter\Validation\Validation->processRules('imagen', 'imagen', null, [...], [...])
+ 3 APPPATH\Controllers\Noticia.php(365): CodeIgniter\Validation\Validation->run([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:46:13 --> CSRF token verified.
+INFO - 2024-05-02 03:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 03:49:27 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 03:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 03:49:50 --> CSRF token verified.
+INFO - 2024-05-02 03:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:07:12 --> CSRF token verified.
+INFO - 2024-05-02 04:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:08:17 --> CSRF token verified.
+INFO - 2024-05-02 04:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:09:16 --> CSRF token verified.
+INFO - 2024-05-02 04:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:12:26 --> CSRF token verified.
+INFO - 2024-05-02 04:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 04:12:27 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 146.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(146): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Noticia.php(400): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs\\codeigniter4\\public/imagenesNoticia/', '49.')
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->postNueva()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 04:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:14:45 --> CSRF token verified.
+INFO - 2024-05-02 04:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:15:15 --> CSRF token verified.
+INFO - 2024-05-02 04:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 04:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:14:34 --> CSRF token verified.
+INFO - 2024-05-02 14:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:14:55 --> CSRF token verified.
+INFO - 2024-05-02 14:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 14:21:49 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('noticia', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 14:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 14:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 15:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 15:29:01 --> ErrorException: unlink(C:\xampp\htdocs\codeigniter4\writable\debugbar/debugbar_1714663479.215764.json): No such file or directory
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 80.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp\\htdocs\\codeigniter4\\writable\\debugbar/debugbar_1714663479.215764.json): No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\system\\Debug\\Toolbar\\Collectors\\History.php', 80)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(80): unlink('C:\\xampp\\htdocs\\codeigniter4\\writable\\debugbar/debugbar_1714663479.215764.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(496): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1714663741.485589', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(475): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(47): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(154): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 16:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:15:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 16:59:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-02 17:14:27 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `...' at line 1 in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(80): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(136): App\Models\ModeloNoticia->obtenerNoticiasUsuario('22')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-02 17:14:27 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `...' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = :noticia.id_usuario:
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(80): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(136): App\Models\ModeloNoticia->obtenerNoticiasUsuario('22')
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 17:14:27 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = \'22\'
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = \'22\'
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = :noticia.id_usuario:
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(80): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(136): App\Models\ModeloNoticia->obtenerNoticiasUsuario('22')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 17:14:27 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `...' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = \'22\'
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = \'22\'
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = \'22\'
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id`, `noticia`.`es_activo` as `esActivo usuario`.`correo`, `estado`.`nombre` as `estado`, `titulo`, `categoria`.`nombre` as `categoria`, `estado_noticia`.`fecha` as `fechaEstatus`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+JOIN `estado_noticia` ON `noticia`.`id` = `estado_noticia`.`id_noticia`
+JOIN `estado` ON `estado`.`id` = `estado_noticia`.`id_estado`
+JOIN `usuario` ON `usuario`.`id` = `estado_noticia`.`id_usuario`
+JOIN `categoria` ON `categoria`.`id` = `borrador`.`id_categoria`
+WHERE `noticia`.`id_usuario` = :noticia.id_usuario:
+AND borrador.id = (SELECT MAX(id) FROM borrador WHERE noticia.id = `borrador`.`id_noticia`)
+AND estado_noticia.id = (SELECT MAX(id) FROM estado_noticia WHERE noticia.id = `estado_noticia`.`id_noticia`)', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(80): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(136): App\Models\ModeloNoticia->obtenerNoticiasUsuario('22')
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 17:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:15:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 17:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 20:05:44 --> ErrorException: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\codeigniter4\system\HotReloader\HotReloader.php:67)
+in SYSTEMPATH\HTTP\ResponseTrait.php on line 774.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify header information - headers already sent by (output started at C:\\xampp\\htdocs\\codeigniter4\\system\\HotReloader\\HotReloader.php:67)', 'C:\\xampp\\htdocs\\codeigniter4\\system\\HTTP\\ResponseTrait.php', 774)
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(774): setcookie('csrf_cookie_name', '127b5fbd658716e431573e3b619b231b', [...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(750): CodeIgniter\HTTP\Response->doSetCookie('csrf_cookie_name', '127b5fbd658716e431573e3b619b231b', [...])
+ 4 SYSTEMPATH\HTTP\ResponseTrait.php(730): CodeIgniter\HTTP\Response->dispatchCookies()
+ 5 SYSTEMPATH\HTTP\ResponseTrait.php(447): CodeIgniter\HTTP\Response->sendCookies()
+ 6 SYSTEMPATH\CodeIgniter.php(1113): CodeIgniter\HTTP\Response->send()
+ 7 SYSTEMPATH\CodeIgniter.php(381): CodeIgniter\CodeIgniter->sendResponse()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 20:05:44 --> ErrorException: Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\codeigniter4\system\HotReloader\HotReloader.php:67) in C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php:774
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', 'C:\\xampp\\htdocs...', 774)
+#1 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(774): setcookie('csrf_cookie_nam...', '127b5fbd658716e...', Array)
+#2 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(750): CodeIgniter\HTTP\Response->doSetCookie('csrf_cookie_nam...', '127b5fbd658716e...', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(730): CodeIgniter\HTTP\Response->dispatchCookies()
+#4 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(447): CodeIgniter\HTTP\Response->sendCookies()
+#5 C:\xampp\htdocs\codeigniter4\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#6 C:\xampp\htdocs\codeigniter4\system\Debug\Exceptions.php(156): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#8 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\codeigniter4\system\HotReloader\HotReloader.php:67)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', 'C:\\xampp\\htdocs...', 774)
+#1 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(774): setcookie('csrf_cookie_nam...', '127b5fbd658716e...', Array)
+#2 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(750): CodeIgniter\HTTP\Response->doSetCookie('csrf_cookie_nam...', '127b5fbd658716e...', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(730): CodeIgniter\HTTP\Response->dispatchCookies()
+#4 C:\xampp\htdocs\codeigniter4\system\HTTP\ResponseTrait.php(447): CodeIgniter\HTTP\Response->sendCookies()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(1113): CodeIgniter\HTTP\Response->send()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(381): CodeIgniter\CodeIgniter->sendResponse()
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+in SYSTEMPATH\HTTP\ResponseTrait.php on line 774.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-05-02 20:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:09:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:09:44 --> CSRF token verified.
+INFO - 2024-05-02 20:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:17:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:17:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 20:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 21:18:00 --> ParseError: syntax error, unexpected token "if"
+in APPPATH\Controllers\Noticia.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 21:18:00 --> ParseError: syntax error, unexpected token "if"
+in APPPATH\Controllers\Noticia.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 21:19:34 --> ParseError: syntax error, unexpected token "if"
+in APPPATH\Controllers\Noticia.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 21:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 21:19:37 --> ParseError: syntax error, unexpected token "if"
+in APPPATH\Controllers\Noticia.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 21:19:38 --> ParseError: syntax error, unexpected token "if"
+in APPPATH\Controllers\Noticia.php on line 150.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 21:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 21:29:48 --> ParseError: syntax error, unexpected token ";"
+in APPPATH\Controllers\Noticia.php on line 147.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 21:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 21:40:10 --> ParseError: syntax error, unexpected token ";", expecting "]"
+in APPPATH\Controllers\Noticia.php on line 140.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 21:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 21:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 21:48:24 --> ErrorException: Undefined variable $desactivar
+in APPPATH\Controllers\Noticia.php on line 184.
+ 1 APPPATH\Controllers\Noticia.php(184): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $desactivar', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 184)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(143): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 21:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 21:48:39 --> ErrorException: Undefined variable $desactivar
+in APPPATH\Controllers\Noticia.php on line 185.
+ 1 APPPATH\Controllers\Noticia.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $desactivar', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 185)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(143): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 22:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 22:02:36 --> ErrorException: Undefined variable $desactivar
+in APPPATH\Controllers\Noticia.php on line 191.
+ 1 APPPATH\Controllers\Noticia.php(191): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $desactivar', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 191)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(143): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 22:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 22:02:38 --> ErrorException: Undefined variable $desactivar
+in APPPATH\Controllers\Noticia.php on line 191.
+ 1 APPPATH\Controllers\Noticia.php(191): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $desactivar', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 191)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(143): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 22:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 22:04:04 --> ErrorException: Undefined variable $activar
+in APPPATH\Controllers\Noticia.php on line 191.
+ 1 APPPATH\Controllers\Noticia.php(191): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $activar', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 191)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(143): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 22:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 22:04:05 --> ErrorException: Undefined variable $activar
+in APPPATH\Controllers\Noticia.php on line 191.
+ 1 APPPATH\Controllers\Noticia.php(191): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $activar', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 191)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(143): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 22:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 22:04:05 --> ErrorException: Undefined variable $activar
+in APPPATH\Controllers\Noticia.php on line 191.
+ 1 APPPATH\Controllers\Noticia.php(191): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $activar', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 191)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(143): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 22:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:05:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 22:12:38 --> ParseError: Unclosed '{' on line 143 does not match ')'
+in APPPATH\Controllers\Noticia.php on line 174.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 22:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 22:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 23:42:31 --> Error: Call to undefined function App\Controllers\esActivo()
+in APPPATH\Controllers\Noticia.php on line 161.
+ 1 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 2 APPPATH\Controllers\Noticia.php(157): array_map(Object(Closure), [...])
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->misNoticias()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-02 23:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-02 23:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-02 23:58:48 --> ParseError: syntax error, unexpected token ",", expecting ";"
+in APPPATH\Controllers\Noticia.php on line 161.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Noticia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Noticia')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\Noticia', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

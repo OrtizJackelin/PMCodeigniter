@@ -1,0 +1,880 @@
+CRITICAL - 2024-04-24 00:30:02 --> ErrorException: Undefined property: App\Controllers\Noticia::$load
+in APPPATH\Controllers\Noticia.php on line 33.
+ 1 APPPATH\Controllers\Noticia.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Noticia::$load', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 00:39:57 --> ErrorException: Undefined property: App\Controllers\Noticia::$load
+in APPPATH\Controllers\Noticia.php on line 34.
+ 1 APPPATH\Controllers\Noticia.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Noticia::$load', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 00:40:01 --> ErrorException: Undefined property: App\Controllers\Noticia::$load
+in APPPATH\Controllers\Noticia.php on line 34.
+ 1 APPPATH\Controllers\Noticia.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Noticia::$load', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 00:40:16 --> ErrorException: Undefined property: App\Controllers\Noticia::$load
+in APPPATH\Controllers\Noticia.php on line 34.
+ 1 APPPATH\Controllers\Noticia.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Noticia::$load', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 00:41:23 --> ErrorException: Undefined property: App\Controllers\Noticia::$load
+in APPPATH\Controllers\Noticia.php on line 34.
+ 1 APPPATH\Controllers\Noticia.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Noticia::$load', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 00:46:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "plantillas.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('plantillas.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('plantillas', [], true)
+ 3 APPPATH\Controllers\Noticia.php(32): view('plantillas', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 00:47:59 --> ErrorException: Undefined variable $contenidoSecunadrio
+in APPPATH\Views\plantillas\cuerpo.php on line 10.
+ 1 APPPATH\Views\plantillas\cuerpo.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $contenidoSecunadrio', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\plantillas\\cuerpo.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\plantillas\\cuerpo.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('plantillas/cuerpo', [], true)
+ 5 APPPATH\Controllers\Noticia.php(33): view('plantillas/cuerpo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 01:08:00 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+in SYSTEMPATH\Security\Security.php on line 300.
+ 1 SYSTEMPATH\Security\Security.php(300): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(56): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(182): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\CodeIgniter.php(475): CodeIgniter\Filters\Filters->run('usuario', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:08:47 --> ErrorException: Undefined variable $data
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 15.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(26): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:09:36 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 15.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(26): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-24 13:40:02 --> mysqli_sql_exception: Unknown column 'noticia.titulo' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\app\Models\ModeloNoticia.php(21): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Noticia.php(18): App\Models\ModeloNoticia->obtenerNoticias()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(943): App\Controllers\Noticia->index()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-04-24 13:40:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'noticia.titulo' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = :borrador.id:', [...], false)
+ 2 APPPATH\Models\ModeloNoticia.php(21): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Noticia.php(18): App\Models\ModeloNoticia->obtenerNoticias()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:40:02 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'noticia.titulo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = 0')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = 0')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = :borrador.id:', [...], false)
+ 4 APPPATH\Models\ModeloNoticia.php(21): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Noticia.php(18): App\Models\ModeloNoticia->obtenerNoticias()
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:40:02 --> [Caused by] mysqli_sql_exception: Unknown column 'noticia.titulo' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = 0', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = 0')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = 0')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `noticia`.`id`, `noticia`.`titulo`, `noticia`.`fecha_publicacion`
+FROM `noticia`
+JOIN `borrador` ON `noticia`.`id` = `borrador`.`id_noticia`
+WHERE `borrador`.`id` = :borrador.id:', [...], false)
+ 5 APPPATH\Models\ModeloNoticia.php(21): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Noticia.php(18): App\Models\ModeloNoticia->obtenerNoticias()
+ 7 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 8 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:41:49 --> ErrorException: Undefined variable $th
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 17.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $th', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 17)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:42:03 --> ErrorException: Undefined variable $data
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 17.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 17)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:42:42 --> ErrorException: Undefined variable $th
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 16.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $th', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:42:43 --> ErrorException: Undefined variable $th
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 16.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $th', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:48:14 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 24.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:50:00 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:50:24 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:50:28 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:50:48 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:51:01 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-24 13:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-24 13:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-24 13:51:37 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:52:51 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 24.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:53:15 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:53:40 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:54:00 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:54:02 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:55:08 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:55:11 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:55:29 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:55:30 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:56:58 --> ErrorException: Undefined variable $data
+in APPPATH\Models\ModeloNoticia.php on line 45.
+ 1 APPPATH\Models\ModeloNoticia.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Models\\ModeloNoticia.php', 45)
+ 2 APPPATH\Controllers\Noticia.php(18): App\Models\ModeloNoticia->obtenerNoticias()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:57:26 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:58:03 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 13:58:04 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:03:18 --> ErrorException: Undefined variable $cabeTh
+in APPPATH\Models\ModeloNoticia.php on line 48.
+ 1 APPPATH\Models\ModeloNoticia.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabeTh', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Models\\ModeloNoticia.php', 48)
+ 2 APPPATH\Controllers\Noticia.php(18): App\Models\ModeloNoticia->obtenerNoticias()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:04:06 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:04:10 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:04:23 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:04:46 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:04:46 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:04:47 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:04:47 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 14:19:31 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:48:54 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:52:43 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:53:49 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:53:50 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:53:50 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:53:50 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:59:20 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 17:59:21 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:01:07 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:01:43 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:01:51 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(24): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:05:31 --> ErrorException: Undefined variable $cabeTh
+in APPPATH\Models\ModeloNoticia.php on line 43.
+ 1 APPPATH\Models\ModeloNoticia.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabeTh', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Models\\ModeloNoticia.php', 43)
+ 2 APPPATH\Controllers\Noticia.php(18): App\Models\ModeloNoticia->obtenerNoticias()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:14:13 --> ErrorException: Undefined variable $noticas
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 10.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $noticas', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:51:09 --> ErrorException: Trying to access array offset on value of type int
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 28.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:52:48 --> ErrorException: Trying to access array offset on value of type int
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 28.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:52:51 --> ErrorException: Trying to access array offset on value of type int
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 28.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:53:21 --> ErrorException: Trying to access array offset on value of type int
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 28.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 18:53:22 --> ErrorException: Trying to access array offset on value of type int
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 28.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(23): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 19:25:29 --> ErrorException: Undefined variable $noticia
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $noticia', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 19:25:45 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 19:25:47 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 19:33:54 --> ErrorException: Undefined array key 0
+in APPPATH\Controllers\Noticia.php on line 21.
+ 1 APPPATH\Controllers\Noticia.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:06:10 --> ArgumentCountError: array_map() expects at least 2 arguments, 1 given
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): array_map(Object(Closure))
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:06:45 --> ArgumentCountError: array_map() expects at least 2 arguments, 1 given
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): array_map(Object(Closure))
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:06:48 --> ArgumentCountError: array_map() expects at least 2 arguments, 1 given
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): array_map(Object(Closure))
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:06:51 --> ArgumentCountError: array_map() expects at least 2 arguments, 1 given
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): array_map(Object(Closure))
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:06:51 --> ArgumentCountError: array_map() expects at least 2 arguments, 1 given
+in APPPATH\Controllers\Noticia.php on line 17.
+ 1 APPPATH\Controllers\Noticia.php(17): array_map(Object(Closure))
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:17:10 --> ErrorException: Undefined array key "noticias"
+in APPPATH\Controllers\Noticia.php on line 18.
+ 1 APPPATH\Controllers\Noticia.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "noticias"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 18)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:17:54 --> ErrorException: Undefined array key "noticias"
+in APPPATH\Controllers\Noticia.php on line 18.
+ 1 APPPATH\Controllers\Noticia.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "noticias"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 18)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:18:35 --> ErrorException: Undefined array key "cabecera"
+in APPPATH\Controllers\Noticia.php on line 24.
+ 1 APPPATH\Controllers\Noticia.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cabecera"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:18:53 --> ErrorException: Undefined variable $listaNoticias
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 23.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $listaNoticias', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(33): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:23:53 --> ErrorException: Undefined variable $listaNoticias
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 23.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $listaNoticias', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(33): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:23:56 --> ErrorException: Undefined variable $listaNoticias
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 23.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $listaNoticias', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(33): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:24:30 --> ErrorException: Undefined array key "noticias"
+in APPPATH\Views\noticias\contenidoSecundario.php on line 10.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "noticias"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(34): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 20:25:03 --> ErrorException: Undefined variable $itemNoticia
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $itemNoticia', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(34): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 23:52:54 --> ErrorException: foreach() argument must be of type array|object, string given
+in APPPATH\Views\noticias\contenidoSecundario.php on line 23.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(46): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 23:57:06 --> ErrorException: Undefined variable $listadoNoticiasTitulos
+in APPPATH\Views\noticias\contenidoSecundario.php on line 20.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $listadoNoticiasTitulos', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(46): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 23:58:25 --> ErrorException: foreach() argument must be of type array|object, string given
+in APPPATH\Views\noticias\contenidoSecundario.php on line 13.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(46): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

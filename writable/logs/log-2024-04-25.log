@@ -1,0 +1,275 @@
+CRITICAL - 2024-04-25 00:00:13 --> ErrorException: foreach() argument must be of type array|object, string given
+in APPPATH\Views\noticias\contenidoSecundario.php on line 12.
+ 1 APPPATH\Views\noticias\contenidoSecundario.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, string given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoSecundario.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoSecundario', [], true)
+ 5 APPPATH\Controllers\Noticia.php(46): view('noticias/contenidoSecundario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 00:19:54 --> ErrorException: Undefined variable $noticias
+in APPPATH\Controllers\Noticia.php on line 21.
+ 1 APPPATH\Controllers\Noticia.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $noticias', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:48:56 --> ErrorException: Undefined variable $noticia
+in APPPATH\Controllers\Noticia.php on line 18.
+ 1 APPPATH\Controllers\Noticia.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $noticia', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 18)
+ 2 [internal function]: App\Controllers\Noticia->App\Controllers\{closure}([...])
+ 3 APPPATH\Controllers\Noticia.php(16): array_map(Object(Closure), [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:51:08 --> ErrorException: Undefined variable $listaNoticias
+in APPPATH\Controllers\Noticia.php on line 56.
+ 1 APPPATH\Controllers\Noticia.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $listaNoticias', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Noticia.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:51:44 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 12.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:53:40 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 12.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:53:43 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 12.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:53:43 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 12.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:54:42 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 12.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 01:58:46 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 16.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 02:03:49 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 19.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 19)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 02:31:37 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 15.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 02:44:12 --> ErrorException: Array to string conversion
+in APPPATH\Views\noticias\contenidoPrincipal.php on line 19.
+ 1 APPPATH\Views\noticias\contenidoPrincipal.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php', 19)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\contenidoPrincipal.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/contenidoPrincipal', [], true)
+ 5 APPPATH\Controllers\Noticia.php(69): view('noticias/contenidoPrincipal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->index()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-25 12:00:52 --> ErrorException: Undefined property: stdClass::$fecha
+in APPPATH\Views\noticias\detalleNoticia.php on line 24.
+ 1 APPPATH\Views\noticias\detalleNoticia.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$fecha', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\detalleNoticia.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\detalleNoticia.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/detalleNoticia', [], true)
+ 5 APPPATH\Controllers\Noticia.php(93): view('noticias/detalleNoticia')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->detalleNoticia('4')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 17:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 17:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 17:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:06:42 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:07:49 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:07:53 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:10:30 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:11:03 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:11:07 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:11:07 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:11:08 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-25 18:11:08 --> ErrorException: Undefined variable $tituloCuerpo
+in APPPATH\Views\noticias\crear.php on line 10.
+ 1 APPPATH\Views\noticias\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tituloCuerpo', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\noticias\\crear.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('noticias/crear', [], true)
+ 5 APPPATH\Controllers\Noticia.php(101): view('noticias/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Noticia->nueva()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Noticia))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-25 18:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-25 18:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
